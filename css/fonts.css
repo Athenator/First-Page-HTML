@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'Constantine';
+  font-weight: 400;
+  font-style: normal;
+  src: local('Constantine'), local('Constantine'),
+    url('../Constantine/Constantine.woff2') format('woff2'),
+    url('../Constantine/Constantine.woff') format('woff'),
+    url('../Constantine/Constantine.eot') format('eot');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Constantine_Bold';
+  font-weight: 700;
+  font-style: normal;
+  src: local('Constantine_Bold'), local('Constantine_Bold'),
+    url('../Constantine/Constantine_Bold.woff2') format('woff2'),
+    url('../Constantine/Constantine_Bold.woff') format('woff'),
+    url('../Constantine/Constantine_Bold.eot') format('eot');
+  font-display: swap;
+}
